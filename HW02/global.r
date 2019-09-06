@@ -1,0 +1,1 @@
+x = read.csv("accidents_2017.csv",header=T,sep=",")
